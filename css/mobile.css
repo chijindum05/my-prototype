@@ -1,0 +1,23 @@
+@media(max-width:768px){
+nav{
+background-color: transparent;
+width: 95%;
+}
+
+.toggle{
+    display: initial;
+}
+
+.menu{
+flex-direction: column;
+
+}
+
+.menu li{
+width: 100vw;
+
+}
+
+
+
+}
